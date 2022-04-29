@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,400&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #0f171e;
+}
+
+#select {
+    width: fit-content;
+}
+
+#carouselExampleControlsNoTouching {
+    width: 60px;
+    height: 35px;
+}
+
+.carousel-item {
+    cursor: pointer;
+    text-align: center;
+}
+
+.carousel-item h6 {
+    margin: 0;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 20px;
+}
+
+#labelForSelect{
+    padding-top: 2px;
+}
+
+#names {
+    height: 220px;
+}
